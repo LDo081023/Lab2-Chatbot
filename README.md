@@ -28,3 +28,5 @@ Lab2/
 │   └── Frontend.py           # Giao diện người dùng Streamlit
 ├── requirements.txt          # Danh sách thư viện cần thiết
 └── README.md                 # Hướng dẫn dự án
+
+##Link drive chứa video demo: https://drive.google.com/drive/folders/1F8yfeqGfriryy0U2ROxo89K2CH2gKkuO?usp=sharing
